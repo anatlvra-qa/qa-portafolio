@@ -1,0 +1,9 @@
+Inicio
+ ↓
+Ingresar email
+ ↓
+Ingresar contraseña
+ ↓
+¿Credenciales válidas?
+   ↓Sí                     ↓No
+ Mostrar dashboard     Mostrar mensaje de error
